@@ -22,7 +22,7 @@ Freelance **CRO developer**. I write A/B test variant code that runs on top of l
 
 ---
 
-<code>$ cat experience.md</code>
+## Experience
 
 🧪 About seven years deep in CRO now, across pretty much every major testing platform:
 
@@ -30,24 +30,24 @@ Freelance **CRO developer**. I write A/B test variant code that runs on top of l
 
 ---
 
-<code>$ cat the-real-work.md</code>
+## The real work
 
 🔧 Honestly, most of the job is the boring part nobody brags about:
 
-- `›` Getting a test to load fast
-- `›` Making it look identical across browsers
-- `›` Stopping it from fighting the client's existing scripts
-- `›` Killing the flicker before it renders 👈 this one has eaten more of my life than I'd like to admit.
+- Getting a test to load fast
+- Making it look identical across browsers
+- Stopping it from fighting the client's existing scripts
+- Killing the flicker before it renders 👈 this one has eaten more of my life than I'd like to admit.
 
 ---
 
-<code>$ cat how-i-work.md</code>
+## How I work
 
 🤝 People usually come to me when they've got more test ideas than dev hours. Hand me a Figma file, a wireframe, or a single line in Slack, and I'll turn it into a variant that's ready for QA. I'm fine on client calls, I keep PMs and QA in the loop, and I'll tell you when a test won't actually measure what you're hoping it measures. **That second part saves people money.**
 
 ---
 
-<code>$ cat stack.config</code>
+## The stack I use
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=1a1a1a)
 ![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white)
@@ -58,13 +58,6 @@ Freelance **CRO developer**. I write A/B test variant code that runs on top of l
 
 💻 Everything ships SPA-aware, accessible, and clean enough to pass your engineers' review.
 
----
-
-<code>$ cat background.md</code>
-
-🎓 I trained as an electrical engineer before this (MSc), which mostly means I'm annoying about whether something actually works, not just whether it looks finished.
-
----
 
 <code>$ cat the-fix.md</code>
 
