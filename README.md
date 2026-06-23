@@ -65,6 +65,6 @@ Freelance **CRO developer**. I write A/B test variant code that runs on top of l
 
 ---
 
-<img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaislam&layout=compact&hide_border=true&title_color=8b7bf0&text_color=c9d1d9&bg_color=0d1117" alt="Most used languages" />
+
 
 `~ arafatcro.dev`
