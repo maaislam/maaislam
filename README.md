@@ -21,5 +21,4 @@ Freelance **CRO developer**. I write A/B test variant code that runs on top of l
 ![Tailwind](https://img.shields.io/badge/Tailwind-8b7bf0?style=flat-square&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-8b7bf0?style=flat-square&logo=html5&logoColor=white)
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=maaislam&show_icons=true&hide_border=true&title_color=8b7bf0&icon_color=8b7bf0&text_color=c9d1d9&bg_color=0d1117" />
 <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaislam&layout=compact&hide_border=true&title_color=8b7bf0&text_color=c9d1d9&bg_color=0d1117" />
