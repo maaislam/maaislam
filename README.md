@@ -1,10 +1,6 @@
-<div align="center">
+<div>
 
 <code>$ whoami</code>
-
-<img src="https://avatars.githubusercontent.com/u/47071699?v=4" width="96" height="96" style="border-radius:50%" alt="Arafat Islam">
-
-# Arafat Islam
 
 <code>freelance cro developer // dhaka · UK + US hours</code>
 
