@@ -1,14 +1,7 @@
-<div>
 
-<code>$ whoami</code>
 
-<code>freelance cro developer // dhaka · UK + US hours</code>
-
-![Available for work](https://img.shields.io/badge/%E2%97%8F%20available%20for%20work-3fb950?style=flat-square&labelColor=0d1117&color=3fb950)
-
-</div>
-
-I write A/B test code that runs on top of live pages — the ones that actually make money. Break a variant on a page like that and it costs the client real revenue, so my whole job is basically one rule: **don't break it.**
+### Hi, I'm Arafat 👋
+Freelance **CRO developer**. I write A/B test variant code that runs on top of live, revenue-critical pages, so the whole job comes down to one rule: **don't break it**.
 
 <a href="https://arafatcro.dev/"><img src="https://img.shields.io/badge/arafatcro.dev%20%E2%86%97-8b7bf0?style=for-the-badge" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/arafat-cro-dev"><img src="https://img.shields.io/badge/linkedin%20%E2%86%97-0a66c2?style=for-the-badge" alt="LinkedIn"></a>
