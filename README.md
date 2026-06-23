@@ -10,7 +10,9 @@ Freelance **CRO developer**. I write A/B test variant code that runs on top of l
 
 📈 More test ideas than dev hours? That's the bottleneck I fix.
 
-**[arafatcro.dev](https://arafatcro.dev)** · [LinkedIn](https://www.linkedin.com/in/arafat-cro-dev) · [Upwork](https://www.upwork.com/freelancers/arafatislam)
+[![Website](https://img.shields.io/badge/arafatcro.dev-8b7bf0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arafatcro.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arafat-cro-dev)
+[![Upwork](https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/arafatislam)
 
 #### Stack
 
