@@ -14,11 +14,11 @@ Freelance **CRO developer**. I write A/B test variant code that runs on top of l
 
 #### Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-8b7bf0?style=flat-square&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-8b7bf0?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-8b7bf0?style=flat-square&logo=nextdotjs&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-8b7bf0?style=flat-square&logo=sass&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-8b7bf0?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-8b7bf0?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaislam&layout=compact&hide_border=true&title_color=8b7bf0&text_color=c9d1d9&bg_color=0d1117" />
